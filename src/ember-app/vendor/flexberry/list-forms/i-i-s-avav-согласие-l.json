@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avav-согласие-e",
+  "editForm": "i-i-s-avav-согласие-e",
+  "external": false,
+  "caption": "Согласие",
+  "name": "IISAvavСогласиеL",
+  "className": "СогласиеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avav-согласие",
+      "modelProjection": "СогласиеL"
+    }
+  ]
+}

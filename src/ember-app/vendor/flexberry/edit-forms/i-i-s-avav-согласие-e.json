@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Согласие",
+  "name": "IISAvavСогласиеE",
+  "className": "СогласиеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avav-согласие",
+      "modelProjection": "СогласиеE"
+    }
+  ]
+}

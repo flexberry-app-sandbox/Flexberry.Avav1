@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avav-сотрудники-e",
+  "editForm": "i-i-s-avav-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISAvavСотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avav-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}
